@@ -45,7 +45,6 @@ blog-writer/
     ├── PRD_blog_workflow.md    # Product requirements
     ├── WORKFLOW_QUICK_REFERENCE.md
     ├── TASKS_blog_workflow.md
-    ├── tests/                  # Sample workflow outputs
     └── .claude/                # Agent prompt files and commands
 ```
 
